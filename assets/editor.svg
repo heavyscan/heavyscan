@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="360" viewBox="0 0 570 360">
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:13.5px}
+.ln{opacity:0;animation:ln .35s ease-out forwards}
+@keyframes ln{from{opacity:0;transform:translateX(-5px)}to{opacity:1;transform:none}}
+</style>
+<rect x="1" y="1" width="568" height="358" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H557 a12 12 0 0 1 12 12 V40 H1Z" fill="#161b22"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="40" cy="20" r="6" fill="#febc2e"/><circle cx="58" cy="20" r="6" fill="#28c840"/>
+<rect x="1" y="40" width="568" height="34" fill="#161b22"/>
+<rect x="1" y="40" width="170" height="34" fill="#0d1117"/><rect x="1" y="40" width="170" height="2" fill="#ffa657"/>
+<text x="16" y="62" fill="#3572a5" font-size="12" font-weight="700">PY</text><text x="38" y="62" fill="#c9d1d9" font-size="13">sobre_mim.py</text>
+<text x="190" y="62" fill="#8b949e" font-size="13">defesa_soc.sh</text>
+<rect x="1" y="74" width="568" height="1" fill="#30363d"/>
+<text x="22" y="102" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">1</text>
+<text x="52" y="102" class="ln" style="animation-delay:0.30s" xml:space="preserve"><tspan fill="#58a6ff">heavyscan</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
+<text x="22" y="124" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">2</text>
+<text x="52" y="124" class="ln" style="animation-delay:0.55s" xml:space="preserve"><tspan fill="#79c0ff">    "cargo"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Especialista Cibersegurança &amp; Tech Lead"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="22" y="146" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">3</text>
+<text x="52" y="146" class="ln" style="animation-delay:0.80s" xml:space="preserve"><tspan fill="#79c0ff">    "experiencia"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"+7 anos (Pleno / Sênior)"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="22" y="168" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">4</text>
+<text x="52" y="168" class="ln" style="animation-delay:1.05s" xml:space="preserve"><tspan fill="#79c0ff">    "foco"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"Blue Team"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"SIEM"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"XDR/EDR"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"GRC"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<text x="22" y="190" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">5</text>
+<text x="52" y="190" class="ln" style="animation-delay:1.30s" xml:space="preserve"><tspan fill="#79c0ff">    "ferramentas"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"Trend Micro"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Tenable"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Splunk"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<text x="22" y="212" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">6</text>
+<text x="52" y="212" class="ln" style="animation-delay:1.55s" xml:space="preserve"><tspan fill="#79c0ff">    "cloud_iac"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"AWS"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Azure"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"GCP"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Terraform"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<text x="22" y="234" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">7</text>
+<text x="52" y="234" class="ln" style="animation-delay:1.80s" xml:space="preserve"><tspan fill="#79c0ff">    "pesquisa"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"IA Security"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"DFIR"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"RevEng"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<text x="22" y="256" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">8</text>
+<text x="52" y="256" class="ln" style="animation-delay:2.05s" xml:space="preserve"><tspan fill="#79c0ff">    "disponivel"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#58a6ff">True</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="22" y="278" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">9</text>
+<text x="52" y="278" class="ln" style="animation-delay:2.30s" xml:space="preserve"><tspan fill="#c9d1d9">}</tspan></text>
+<text x="22" y="308" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">10</text>
+<text x="52" y="308" class="ln" style="animation-delay:2.55s" xml:space="preserve"><tspan fill="#8b949e"># </tspan><tspan fill="#ffa657">STATUS: </tspan><tspan fill="#8b949e">Zero Trust ativo · 100% dos ativos críticos cobertos</tspan></text>
+<path d="M1 330 H569 V347 a12 12 0 0 1 -12 12 H13 a12 12 0 0 1 -12 -12Z" fill="#1f6feb"/>
+<text x="14" y="349" fill="#fff" font-size="12">⎇ main</text>
+<text x="86" y="349" fill="#fff" font-size="12">🛡️ 0 ameaças</text>
+<text x="556" y="349" fill="#fff" font-size="12" text-anchor="end">UTF-8   Python</text>
+</svg>
